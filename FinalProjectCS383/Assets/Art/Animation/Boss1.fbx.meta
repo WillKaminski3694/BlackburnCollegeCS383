@@ -1,0 +1,307 @@
+fileFormatVersion: 2
+guid: d7ab0a88278ebd64096ca9f8124db929
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -2080168455270678503
+    second: Armature|Armature|Fall|BaseLayer
+  - first:
+      74: -7525642111460084711
+    second: Armature|Armature|Flip|BaseLayer
+  - first:
+      74: -6496636385771187176
+    second: Armature|Armature|Hit|BaseLayer
+  - first:
+      74: 2095079327526694485
+    second: Armature|Armature|Idle|BaseLayer
+  - first:
+      74: 2759051572180943831
+    second: Armature|Armature|Run|BaseLayer
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 196
+    second: {fileID: 2100000, guid: bba2d7154944da0499055cbd212e6507, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 198
+    second: {fileID: 2100000, guid: e23176c3042451a43aa072d7e29f0986, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 200
+    second: {fileID: 2100000, guid: 299f2ac124ad480439ca3e8de4bdd378, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 202
+    second: {fileID: 2100000, guid: 23cfe5a8dce05f846ae4480496982ac6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 204
+    second: {fileID: 2100000, guid: dd1b2a0dc91185145ad70568e04b2d53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 206
+    second: {fileID: 2100000, guid: af9e99b01fe10ed4b830aa8f31406991, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 208
+    second: {fileID: 2100000, guid: 6d6a9322533007c42aa07bac64c26f0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 210
+    second: {fileID: 2100000, guid: b6b74a880ccf5324cbf0dddc416ca0df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 212
+    second: {fileID: 2100000, guid: 634604ec4881fc74c8d257d39d4e3045, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 214
+    second: {fileID: 2100000, guid: 9ad0e1a0819adc54fbf029931d9c2c36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 216
+    second: {fileID: 2100000, guid: f94589010fe3ee543a6c2c78a351fe64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 218
+    second: {fileID: 2100000, guid: 246dc93acdd677146a1fdc5d9f331ff9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 220
+    second: {fileID: 2100000, guid: 957d987184559424986fa761d98d626b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 222
+    second: {fileID: 2100000, guid: 490386b823af56c4cb760dafda93e7ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 224
+    second: {fileID: 2100000, guid: 5741f7a4d400d0149b060520a3ee292d, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 65
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Boss1(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Armature
+      parentName: Boss1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000081460335, y: -0, z: -0, w: 1}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Hips
+      parentName: Armature
+      position: {x: -0, y: 0.0038999997, z: 0}
+      rotation: {x: -0.000000009537352, y: -0.00000007795946, z: -0.4785118, w: 0.8780812}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ArmLeft
+      parentName: Hips
+      position: {x: -0.0033149999, y: 0.0007228303, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: HandLeft
+      parentName: ArmLeft
+      position: {x: -0.0025934998, y: -3.8743017e-10, z: -3.3827105e-21}
+      rotation: {x: 0.037732083, y: -0.14064461, z: 0.25635514, w: 0.95555085}
+      scale: {x: 1, y: 1, z: 1}
+    - name: HandLeft_end
+      parentName: HandLeft
+      position: {x: -0, y: 0.0025934998, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ArmRight
+      parentName: Hips
+      position: {x: 0.0033149999, y: 0.0007228303, z: 0}
+      rotation: {x: 0, y: 0, z: 1, w: -6.123234e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: HandRight
+      parentName: ArmRight
+      position: {x: -0.0025934998, y: 0, z: 0}
+      rotation: {x: 0, y: -0.14561805, z: -0, w: 0.9893409}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: HandRight_end
+      parentName: HandRight
+      position: {x: -0, y: 0.0025934998, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LegRight
+      parentName: Hips
+      position: {x: 0.0013650001, y: -0.0016473553, z: -0.0000011660322}
+      rotation: {x: -0.26794663, y: 0.6543732, z: 0.6543737, w: -0.2679469}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: FootRight
+      parentName: LegRight
+      position: {x: -0.0010543176, y: -9.685754e-11, z: -4.447701e-11}
+      rotation: {x: 0.06516067, y: 0.107176565, z: -0.025473395, w: 0.9917754}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: ToesRight
+      parentName: FootRight
+      position: {x: -0.002134143, y: -0.000010762727, z: -1.817956e-10}
+      rotation: {x: -0.16401999, y: -0.68782073, z: -0.16401996, w: 0.68782085}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ToesRight_end
+      parentName: ToesRight
+      position: {x: -0, y: 0.0021341697, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LegLeft
+      parentName: Hips
+      position: {x: -0.0013650001, y: -0.0016473553, z: -0.0000011660322}
+      rotation: {x: 0.5589185, y: 0.4331399, z: 0.43313986, w: 0.55891854}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: FootLeft
+      parentName: LegLeft
+      position: {x: -0.0010543175, y: -9.685754e-11, z: -4.447701e-11}
+      rotation: {x: -0.09433419, y: -0.15516108, z: -0.03302058, w: 0.98282033}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: ToesLeft
+      parentName: FootLeft
+      position: {x: -0.002134143, y: -0.000010762727, z: 1.1919467e-11}
+      rotation: {x: 0.5010766, y: -0.48963097, z: 0.51575667, w: 0.49313164}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ToesLeft_end
+      parentName: ToesLeft
+      position: {x: -0, y: 0.0021341697, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head
+      parentName: Boss1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Chest
+      parentName: Boss1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: RightArm
+      parentName: Boss1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: LeftArm
+      parentName: Boss1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: LeftLeg
+      parentName: Boss1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: RightLeg
+      parentName: Boss1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.65
+    rootMotionBoneName: Armature
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

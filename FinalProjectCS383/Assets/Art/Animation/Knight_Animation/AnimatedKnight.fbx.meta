@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: 18f30dde563587441a71d792cbcd6df6
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -1422011007694221501
+    second: Armature|ArmatureAction.001
+  - first:
+      74: 6093225430303232669
+    second: Armature|ArmatureAction.002
+  - first:
+      74: 4419341551624498096
+    second: Armature|ArmatureAction.003
+  - first:
+      74: 4723146814002874508
+    second: Armature|Attack
+  - first:
+      74: -9019319416649092084
+    second: Armature|Hands
+  - first:
+      74: 1596628166480362547
+    second: Armature|HelmetAction
+  - first:
+      74: 9100721425551235926
+    second: Armature|NeckAction
+  - first:
+      74: -7963792721324232313
+    second: Armature|Pauldron.001Action
+  - first:
+      74: 3204444968975098492
+    second: Armature|Pauldron.002Action
+  - first:
+      74: -8208832694855687053
+    second: mixamorig:Hips|ArmatureAction.003
+  - first:
+      74: 2014651455556932466
+    second: mixamorig:Hips|HelmetAction
+  - first:
+      74: -1262068704479272596
+    second: mixamorig:Hips|mixamorig:HipsAction
+  - first:
+      74: 7533149610439978916
+    second: mixamorig:Hips|mixamorig:Hips|clip|Base_Layer
+  - first:
+      74: 5579081859329102221
+    second: mixamorig:Hips|NeckAction
+  - first:
+      74: -7353430917392187655
+    second: mixamorig:Hips|Pauldron.001Action
+  - first:
+      74: -8921291967187571541
+    second: mixamorig:Hips|Pauldron.002Action
+  - first:
+      74: -4153226666523428309
+    second: Pauldron.001|ArmatureAction.003
+  - first:
+      74: -6381894730661901443
+    second: Pauldron.001|Attack
+  - first:
+      74: -8251290415454084012
+    second: Pauldron.001|HelmetAction
+  - first:
+      74: 515266342189900683
+    second: Pauldron.001|NeckAction
+  - first:
+      74: 1046625904237610447
+    second: Pauldron.001|Pauldron.001Action
+  - first:
+      74: -4940410331721893495
+    second: Pauldron.001|Pauldron.002Action
+  - first:
+      74: 1848031089007061647
+    second: Helmet|ArmatureAction.003
+  - first:
+      74: -1150362023198356550
+    second: Helmet|HelmetAction
+  - first:
+      74: -1390987988437525496
+    second: Helmet|NeckAction
+  - first:
+      74: -5602552579666442922
+    second: Helmet|Pauldron.001Action
+  - first:
+      74: -153277432592257543
+    second: Helmet|Pauldron.002Action
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
